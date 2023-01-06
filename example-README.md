@@ -27,7 +27,7 @@
 
 *Outline the product you're creating:*
 
-- *List the hardware components you'll be using, and how they interact. This is an appropriate place for a diagram. An EXCELLENT resource for creating diagrams is TinkerCAD [TinkerCAD website](http://tinkercad.com "TinkerCAD website"). A sample of how to add an image to Github is shown below. *
+- *List the hardware components you'll be using, and how they interact. This is an appropriate place for a diagram. An EXCELLENT resource for creating diagrams is the [TinkerCAD website](http://tinkercad.com "TinkerCAD website"). A sample of how to add an image to Github is shown below.*
 
 - *List all of the known parts in the code you'll be creating.*
   
@@ -60,17 +60,14 @@ as projects evolve over time.*
 ## Summary
 *You'll complete this part at the end of the project.*
 
-*Provide a brief summary description of the design and implementation, including how much your initial design plan evolved, the final result you achieved and the amount of time you spent as a programmer in accomplishing these results, including any challenges overcome and innovations that were not specifically required by the assignment. This section should be no more than three paragraphs. *
+*Provide a brief summary description of the design and implementation, including how much your initial design plan evolved, the final result you achieved and the amount of time you spent as a programmer in accomplishing these results, including any challenges overcome and innovations that were not specifically required by the assignment. This section should be no more than three paragraphs.*
 
 
 ---
 ## Errors and Constraints
 *You'll complete this part at the end of the project.*
 
-*Every program has bugs. Use this section to create a bullet list of
-all known errors and deficiencies that remain in your product. 
-Also, list any constraints that must exist for your product to work 
-(e.g., Only works in low light situations).*
+*Every program has bugs. Use this section to create a bullet list of all known errors and deficiencies that remain in your product. Also, list any constraints that must exist for your product to work (e.g., Only works in low light situations).*
 
 ## Reflection
 *You'll complete this part at the end of the project.*
@@ -85,7 +82,7 @@ Also, list any constraints that must exist for your product to work
 
 ---
 ## Final Self-Evaluations
-*You'll complete this part at the end of the project. *
+*You'll complete this part at the end of the project.*
 
 *Assign points to each team member in each category, based on their contribution to the team. The sum of all member's points in each category cannot exceed 10. For example, for Coding, Partner 1 could get 7 points, and Partner 2 gets 3 points. You can't give both people 6 points each though, as the sum exceeds 10.*
 
@@ -118,4 +115,4 @@ Also, list any constraints that must exist for your product to work
 ---
 **A Note from Prof. Heggen and Prof. Wilborne to You**
 
-While I expect this project to have issues, one thing to keep in mind is HAVE FUN with it! Create a product that expresses your personal interests. Break up the writing so it’s not so burdensome. We will have a live demo sessions at the end of the project to celebrate your accomplishments.
+While we expect this project to be challenging, one thing to keep in mind is HAVE FUN with it! Create a product that expresses your personal interests. Break up the writing so it’s not so burdensome. We will have a live demo sessions at the end of the project to celebrate your accomplishments.
