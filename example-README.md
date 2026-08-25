@@ -8,12 +8,10 @@
 
 *Give your project an interesting name. Replace the above header with that name.*
 
-
-**Author(s)**: *Prof. Heggen & Prof. Wilborne (replace me!)*
-
-**Google Document**: *Paste the link to your shared Google Document here*
+**Author (s)**: *(replace me!)*
 
 ---
+
 ## Purpose
 
 *You'll complete this section as part of Milestone 1.*
@@ -21,79 +19,151 @@
 *In no more than one paragraph, describe the problem your product will solve, and how.*
 
 ---
+
 ## Initial Design Plan
 
 *You'll complete this section as part of Milestone 1, and update it regularly.*
 
-*Outline the product you're creating:*
+_*Outline the product you're creating in a paragraph or two. Be sure to indicate WHY you are building it in addition to
+WHAT you are building. *_
 
-- *List the hardware components you'll be using, and how they interact. This is an appropriate place for a diagram. An EXCELLENT resource for creating diagrams is the [TinkerCAD website](http://tinkercad.com "TinkerCAD website"). A sample of how to add an image to Github is shown below.*
+_**NOTE**: Your initial design plan may not fully reflect your final product, as projects evolve over time.*_
 
-- *List all of the known parts in the code you'll be creating.*
-  
-  - *Your program must follow good coding standards. Primarily, I mean your code should include meaningful functions and appropriate variables, and be formatted and commented well. Sloppy code with no structure will be penalized.*
-
-**NOTE**: Your initial design plan may not fully reflect your final product,
-as projects evolve over time.*
-
-**Sample image**:
+_**Sample image**:_
 
 ![A sample image to show how to add one to a repo](images/example.png "A sample image. This is the text that appears.")
 
 ---
+
+## Materials List
+
+*You'll complete this section as part of Milestone 1 and update it regularly.*
+
+- *List the hardware components you'll be using, and how they interact. We will use this list to purchase components if
+  they are not readily available.
+
+| Component | Quantity | Need Ordered? | Link to order from |
+|-----------|----------|---------------|--------------------|
+|           |          |               |                    |
+
+---
+
+## Wiring Diagrams
+
+*You'll complete this section as part of Milestone 1 and update it regularly.*
+
+_This is an appropriate place for a diagram. An excelelnt resource for creating diagrams is
+the [TinkerCAD website](http://tinkercad.com "TinkerCAD website"). A sample of how to add an image to Github is shown
+above._
+
+---
+
 ## Files
 
 *You'll complete this section as part of Milestone 1 and update it regularly.*
 
-*List every file in your repository, and briefly summarize each file's purpose in a sentence.*
-
+*List the files in your repository, and briefly summarize each file's purpose in about a sentence.*
 
 ---
+
 ## Installation and Usage Instructions
 
-*Explain how to use the code in this repository to build the embedded system you designed. An ordered list would be useful here.*
+*Explain how to use the code in this repository to build the embedded system you designed. An ordered list would be
+useful here.*
 
-*Then, explain how to use your product. This section should THOROUGHLY describe its usage (i.e., more than just "Push start").*
-
+*Then, explain how to use your product. This section should THOROUGHLY describe its usage (i.e., more than just "Push
+start").*
 
 ---
+
+## Check-in 1
+
+*You'll complete this section as part of Milestone 2.*
+
+Use this space to reflect on what you’ve done so far. How’s it going? Are you feeling behind/ahead? What are you worried
+about? What has surprised you so far? Describe your general feelings. Be honest with yourself; this section is for you,
+not us. Each partner should complete Milestone 2 individually:
+
+```
+  M2.a. Partner 1:
+  
+  M2.b. Partner 2:                                                                                                                                                                                                                                                                                                                     
+```
+
+---
+
+## Check-in 2
+
+*You'll complete this section as part of Milestone 3.*
+
+With one week left, it is time to review our goals and reset any that are no longer reasonable. First, review your Issue
+Queue and make sure it reflects the current state of your project. Then, in the space below, List the issues you believe
+you can finish by the deadline, and how long (in hours) each issue will take to complete.
+
+| Issue Number | Estimated Time |
+|--------------|----------------|
+|              |                |
+ 
+---
+
 ## Summary
-*You'll complete this part at the end of the project.*
 
-*Provide a brief summary description of the design and implementation, including how much your initial design plan evolved, the final result you achieved and the amount of time you spent as a programmer in accomplishing these results, including any challenges overcome and innovations that were not specifically required by the assignment. This section should be no more than three paragraphs.*
+*You'll complete this part at the END of the project.*
+
+*Provide a brief summary description of the design and implementation, including how much your initial design plan
+evolved, the final result you achieved and the amount of time you spent as a programmer in accomplishing these results,
+including any challenges overcome and innovations that were not specifically required by the assignment. This section
+should be no more than three paragraphs.*
 
 
 ---
+
 ## Errors and Constraints
+
 *You'll complete this part at the end of the project.*
 
-*Every program has bugs. Use this section to create a bullet list of all known errors and deficiencies that remain in your product. Also, list any constraints that must exist for your product to work (e.g., Only works in low light situations).*
+*Every program has bugs. Use this section to create a bullet list of all known errors and deficiencies that remain in
+your product. Also, list any constraints that must exist for your product to work (e.g., Only works in low light
+situations).*
 
 ## Reflection
+
 *You'll complete this part at the end of the project.*
 
-*Write 2 - 4 paragraphs on your reactions to the final project. Your reflection should be thoughtful and reflective. It is NOT a report about WHAT you did. Instead, it's a look back at what you learned by doing this project. It should be critical of shortcomings (yours, as well as the instructors/assignments) as well as celebratory of what was achieved.*
+*Write 2 - 4 paragraphs on your reactions to the final project. Your reflection should be thoughtful and reflective. It
+is NOT a report about WHAT you did. Instead, it's a look back at what you learned by doing this project. It should be
+critical of shortcomings (yours, as well as the instructors/assignments) as well as celebratory of what was achieved.*
 
 ---
+
 ## References
+
 *Start this section at the beginning of the project, and update it throughout.*
 
-*Throughout this project, you'll be used outside resources. Reference ALL ideas or code which are not your own, and describe and how you integrated the ideas or code into your program. This includes online sources, people who have helped you, and any other resources that are not solely your own contribution. Lastly, include ALL resources you looked at, not just the ones you ended up using directly.*
+*Throughout this project, you'll be used outside resources. Reference ALL ideas or code which are not your own, and
+describe and how you integrated the ideas or code into your program. This includes online sources, people who have
+helped you, and any other resources that are not solely your own contribution. Lastly, include ALL resources you looked
+at, not just the ones you ended up using directly.*
 
 ---
+
 ## Final Self-Evaluations
+
 *You'll complete this part at the end of the project.*
 
-*Assign points to each team member in each category, based on their contribution to the team. The sum of all member's points in each category cannot exceed 10. For example, for Coding, Partner 1 could get 7 points, and Partner 2 gets 3 points. You can't give both people 6 points each though, as the sum exceeds 10.*
+*Assign points to each team member in each category, based on their contribution to the team. The sum of all member's
+points in each category cannot exceed 10. For example, for Coding, Partner 1 could get 7 points, and Partner 2 gets 3
+points. You can't give both people 6 points each though, as the sum exceeds 10.*
 
 ---
+
 ### Ideation, Brainstorming, Design:
 
 *Partner 1 (replace this with your name): 0-10*
 
 *Partner 2 (replace this with your name): 0-10*
 
-### Code creation: 
+### Code creation:
 
 *Partner 1 (replace this with your name): 0-10*
 
@@ -113,6 +183,8 @@ as projects evolve over time.*
 
 
 ---
-**A Note from Prof. Heggen and Prof. Wilborne to You**
+**A Note from Prof. Heggen**
 
-While we expect this project to be challenging, one thing to keep in mind is HAVE FUN with it! Create a product that expresses your personal interests. Break up the writing so it’s not so burdensome. We will have a live demo sessions at the end of the project to celebrate your accomplishments.
+While we expect this project to be challenging, one thing to keep in mind is HAVE FUN with it! Create a product that
+expresses your personal interests. Break up the writing so it’s not so burdensome. We will have a live demo sessions at
+the end of the project to celebrate your accomplishments.

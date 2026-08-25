@@ -1,4 +1,5 @@
 # P01: Project 1
 
-See example-README.md for help on how to begin.
+See [instructions.md](instructions.md) for your instructions.
 
+See [example-README.md](example-README.md) for your requirements.
