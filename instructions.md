@@ -10,7 +10,7 @@
 
 ## How to Begin
 
-1. Go to the [Classroom 50 for P01](https://classroom.github.com/a/tSw4qAlx) and follow the instructions.
+1. Go to the [Classroom 50 for P01]([[https://classroom.github.com/a/tSw4qAlx](https://classroom50.org/CSC300-Embedded-Systems/csc-300-embedded-systems/assignments/p01-project-1/accept)](https://classroom50.org/CSC300-Embedded-Systems/csc-300-embedded-systems/assignments/p01-project-1/accept)) and follow the instructions.
 
 **⚠️ NOTE:** We will be using git and Github regularly in this course. If you do not remember how to use these tools,
 please visit the evening lab for a refresher. You will be expected to know how to use these tools, so do not assume you
